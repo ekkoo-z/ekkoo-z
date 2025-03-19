@@ -1,4 +1,12 @@
-## Hi,I'm ekkoo 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ekkoo-z&left_color=green&right_color=red)
+## Hi,I'm ekkoo 👋  ![pv](https://pageview.vercel.app/?github_user=ekkoo-z)
+🌱 专注于代码审计，内网渗透，红队武器开发......  
+🏆 业余电竞选手（LOL全国高校联赛亚军打野😄）  
+🔭 已转变 大学生 ---> 社畜   
+📫 持续学习中...  
+💬 个人博客：微信公众号 艾克sec  
+....  
+
+⚡ The world of hackers is fascinating, isn't it?
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekkoo-z)
 <!--
 **ekkoo-z/ekkoo-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
