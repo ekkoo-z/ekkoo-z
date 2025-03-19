@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi,I'm ekkoo 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ekkoo-z&left_color=green&right_color=red)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekkoo-z)
 <!--
 **ekkoo-z/ekkoo-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ekkoo-z&left_color=green&right_color=red)
 
